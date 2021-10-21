@@ -7,3 +7,5 @@ tmp/
 temp/
 database.sqlite
 .env
+node_modules
+npm-debug.log
